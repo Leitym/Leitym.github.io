@@ -21,7 +21,7 @@ body {
   height: calc(100vh - 60px);
 }
 
-.c-block {
+.container-block {
   width: 50%;
 }
 
